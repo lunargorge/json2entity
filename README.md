@@ -10,8 +10,8 @@ In other words, we can easily carry out the serialization / deserialization proc
  npm install json2entity --save
 ```
 
+Add to tsconfig.json
 ```json
-// add to tsconfig.json
 {
   "compilerOptions": {
     [...]
@@ -21,7 +21,7 @@ In other words, we can easily carry out the serialization / deserialization proc
 }
 ```
 
-## Run Examples
+## Run test
 
 ``` javascript
 git clone https://github.com/lunargorge/json2entity.git
@@ -30,7 +30,7 @@ npm install
 npm run test
 ```
 
-## Example - deserialize
+## Example
 
 Mock data.
 
