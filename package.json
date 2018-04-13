@@ -1,5 +1,5 @@
 {
-  "name": "json2object",
+  "name": "json2entity",
   "version": "1.0.0",
   "description": "This is a library to make deserializing/serializing JSON (or JS literal object) into/from TypeScript classes.",
   "main": "index.js",
