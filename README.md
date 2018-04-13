@@ -1,4 +1,4 @@
-# handy-data
+# json2entity
 ---
 In SPA application (single page application) we use data sources are obtained from API server, usually we use it directly. 
 This library provide simple way to transform api data to custom typescript entity class - the reverse process is also possible.
