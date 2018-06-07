@@ -1,6 +1,6 @@
 {
   "name": "json2entity",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This is a library to make deserializing/serializing JSON (or JS literal object) into/from TypeScript classes.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lunargorge/json2entity"
+    "url": "git+https://github.com/lunargorge/json2entity.git"
   },
   "bugs": {
     "url": "https://github.com/lunargorge/json2entity/issues"
@@ -35,5 +35,10 @@
   "engines": {
     "node": ">= 4.2.1",
     "npm": ">= 3"
-  }
+  },
+  "homepage": "https://github.com/lunargorge/json2entity#readme",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {}
 }
