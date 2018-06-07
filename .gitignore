@@ -1,0 +1,9 @@
+/node_modules
+/dist
+/bower_components
+npm-debug.log
+package-lock.json
+*.map
+*.d.ts
+*.js
+.idea/
